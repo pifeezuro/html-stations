@@ -28,6 +28,6 @@ header {
     align-items: center;
 }
 
-body {
+.parent {
     display: flex;
 }
